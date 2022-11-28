@@ -15,7 +15,7 @@
 }
 
 .cover__background::before {
-content: ''; 
+content: '';
 position: absolute;
 top: 0;
 left: 0;
@@ -28,7 +28,7 @@ transition: opacity 350ms ease;
 
 }
 .cover__background:hover::before {
-opacity: 0.8;	
+opacity: 0.8;
 }
 
 @media screen and (max-width: 1024px) {
@@ -45,6 +45,6 @@ opacity: 0.8;
   
   @media screen and (max-width: 320px) {
   .cover__background {
-    max-height: 200px; 
+    max-height: 200px;
     }
   }
