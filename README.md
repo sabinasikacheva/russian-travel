@@ -1,5 +1,10 @@
 # Проект: Путешествие по России
 
+**GitHub**
+
+* [Ссылка на GitHub ](https://sabinasikacheva.github.io/russian-travel/)
+
+
 ### Обзор
 * Интро
 * Figma
